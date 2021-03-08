@@ -17,4 +17,5 @@ Own image sets:
 <li>Test/dev set 1: A set of 300 images including the six sorts and scrap images
 <li>test/dev set 2 : A second set of 300 images including the six sorts and scrap images.
 </ul>
+<br>
 Note: Based on Andrew Ng's Deep Learning courses provided by Deeplearning.ai at Cousera. Thanks !
